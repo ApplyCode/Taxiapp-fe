@@ -1,0 +1,157 @@
+{
+  "initial": {
+    "app": "Taxiwait Driver",
+    "user": "Gumagamit",
+    "guest": "Bisita",
+    "driver": "Driver",
+    "pwd": "Password",
+    "email": "Email",
+    "phone": "Telepono",
+    "login": "Pag-login",
+    "signUp": "Mag-sign Up",
+    "reset": "I-reset",
+    "name_user": "Pangalan/Gumagamit",
+    "update": "Update",
+    "submt": "Isumite",
+    "accept": "Tanggapin",
+    "name": "Pangalan",
+    "send": "Send",
+    "description": "Paglalarawan",
+    "offline": "Offline",
+    "online": "Online",
+    "title": "Pamagat",
+    "home": "Bahay",
+    "chat": "Chat",
+    "decline": "Tanggihan",
+    "call": "Tumawag"
+  },
+  "login": {
+    "title": "Mag-log in",
+    "pwd": "Password",
+    "kepLog": "Panatilihin akong naka-log in",
+    "needAcc": "Kailangan mo ng isang account?",
+    "loginBtn": "Pag-login"
+  },
+  "signUp": {
+    "title": "Mag-sign Up",
+    "countryCity": "Bansa at Lungsod",
+    "description": "Sa pamamagitan ng pag-click sa 'Mag-sign up', tinatanggap ko ang pindutan na ang impormasyong ibinigay ko na ginamit at na-publish sa taxiwait app, at tinatanggap ko rin ang mga pangkalahatang kundisyon."
+  },
+  "forgotPwd": {
+    "title": "Nakalimutan ang password",
+    "resetPwd": "I-reset ang Password",
+    "userId": "User id",
+    "confirmPwd": "Kumpirmahin ang Password"
+  },
+  "driver": {
+    "carTyoe": "Anong uri ng kotse?",
+    "carColor": "Kulay ng kotse",
+    "license": "Numero ng plate plate",
+    "facePic": "Larawan sa Mukha",
+    "liceFront": "Front ng Lisensya",
+    "liceBack": "Bumalik ang Lisensya"
+  },
+  "booking": {
+    "taxiEconomy": "Taxiwait Economy",
+    "incmingJob": "Papasok na Trabaho"
+  },
+  "driverPay": {
+    "price": "50 Euro",
+    "nameCard": "Name on card",
+    "monthPay": "Iyong Buwanang Pagbabayad",
+    "cardInfo": "Impormasyon sa Card",
+    "pay": "Bayaran"
+  },
+  "editDriver": {
+    "driverProfile": "Driver Profile",
+    "isEmailMsg": "Ang gumagamit o Email ay mayroon na",
+    "permisionCamera": {
+      "title": "Pahintulot sa Camera",
+      "msg": "Kailangan ng app ng pahintulot sa camera"
+    },
+    "permisionStorage": {
+      "title": "Pahintulot sa Sumulat ng Panlabas na Imbakan",
+      "msg": "Kailangan ng app ng pahintulot sa pagsulat"
+    }
+  },
+  "home": {
+    "inCash": "sa cash",
+    "addLocation": "Magdagdag ng Lokasyon",
+    "cancelReservation": "Kanselahin ang Pagreserba",
+    "calFare": "Kalkulahin ang Pamasahe",
+    "requestDriver": "Humiling ng driver",
+    "availableDriver": "Magagamit na Driver",
+    "requestAccepted": "Tinanggap ang kahilingan"
+  },
+  "profile": "Ang Aking Profile",
+  "pay": "Piliin ang Iyong Bayad",
+  "privacy": [
+    "Una sa lahat, mahalaga sa amin ang iyong privacy. Oo, alam namin na lahat sinasabi ito, ngunit para sa amin ito talaga. Pinagkakatiwalaan mo kami gamit ang mga serbisyo ng taxiwait.com at lubos naming pinahahalagahan ito. Nangangahulugan ito na sikaping protektahan at protektahan ang anumang personal na data sa pamamagitan ng pagkilos ayon sa interes ng aming mga customer at may transparency hinggil sa pagproseso ng iyong personal na data. ",
+    "Ginagamit ang pahinang ito upang ipaalam sa iyo tungkol sa aming mga patakaran sa koleksyon, paggamit, at pagsisiwalat ng Personal na Impormasyon kung may nagpasya na gamitin ang aming Serbisyo.",
+    "At may kamalayan ka tungkol sa pagbabayad ng isang hindi naibabalik na halaga bawat buwan sa taxiwait upang mai-publish ang iyong kotse.",
+    "Kung sakaling gusto mong itigil ang pagtatrabaho sa amin ay ipagsabihan na ipaalam sa amin sa pamamagitan ng koreo.",
+    "Kung pipiliin mong gamitin ang aming Mga Serbisyo, sumasang-ayon ka sa koleksyon at paggamit ng impormasyon na may kaugnayan sa patakarang ito. Ang Personal na Impormasyon na kinokolekta namin ay ginagamit para sa pagbibigay at pagpapabuti ng Serbisyo. Hindi namin gagamitin o ibahagi ang iyong impormasyon sa sinuman maliban sa inilarawan sa Patakaran sa Privacy na ito. ",
+    "Ang mga term na ginamit sa Patakaran sa Privacy na ito ay may parehong kahulugan tulad ng sa aming Mga Tuntunin at Kundisyon, na naa-access sa taxiwait Center maliban kung tinukoy sa Patakaran sa Privacy na ito.",
+    "Koleksyon at Paggamit ng Impormasyon",
+    "Para sa isang mas mahusay na karanasan, habang ginagamit ang aming Serbisyo, maaari kaming hingin sa iyo na magbigay sa amin ng ilang partikular na makikilalang impormasyon, kasama ang numero ng Telepono. Ang impormasyong hiniling namin na ginamit tulad ng inilarawan sa patakaran sa privacy na ito.",
+    "Seguridad",
+    "Pinahahalagahan namin ang iyong tiwala sa pagbibigay sa amin ng iyong Personal na Impormasyon, sa gayon nagsusumikap kaming gumamit ng mga katanggap-tanggap na komersyal na paraan ng pagprotekta dito.",
+    "Ligtas naming itinatago ang iyong pribadong impormasyon. Maaari kang magtiwala na ang lahat ng iyong data ay inililipat at naibalik gamit ang pag-encrypt at itinatago sa likod ng mga naka-secure na firewall sa aming Pribadong Cloud Network, ang iyong impormasyon sa pagbabayad ay pinananatiling ligtas sa isang PCI Compilant at kilalang gateway ng pagbabayad sa buong mundo. ",
+    "Ang susunod na henerasyon ng pagkuha ng mga kliyente sa taxi ay ang Taxiwait sa iyong mga kamay.",
+    "Kung na-download mo ang app at hindi pa ito magagamit sa iyong lungsod mangyaring makipag-ugnay sa amin nang direkta, ipaalam sa amin na nais mo ang lungsod na iyong tirahan at ikaw ay nasa unang listahan ng mga driver upang tangkilikin ang app na ito sa loob ng ilang araw o linggo.",
+    "Mga Pagbabago sa Patakaran sa Privacy na Ito",
+    "Maaari naming mai-update ang aming Patakaran sa Pagkapribado paminsan-minsan. Sa gayon, pinapayuhan kang suriin ang pahinang ito paminsan-minsan para sa anumang mga pagbabago. Aabisuhan ka namin ng anumang mga pagbabago sa pamamagitan ng pag-post ng bagong Patakaran sa Privacy sa pahinang ito. Ang mga pagbabagong ito ay epektibo kaagad pagkatapos ng ay nai-post sa pahinang ito. ",
+    "Subukan mo kami at mangyaring i-rate kami."
+  ],
+  "rating": {
+    "giveStart": "Mangyaring bigyan ang iyong driver ng isang bituin",
+    "addDriver": "Idagdag ang iyong Pinakamahusay na Driver",
+    "thankDriver": "Salamat upang ma-rate ang iyong driver"
+  },
+  "reservation": {
+    "pickUp": "Pumili",
+    "time": "Oras: ASAP",
+    "clickNotify": "CLICK TO NOTIFY YOU CLIENT NA DUMATING KA",
+    "finishJob": "Tapusin ang Trabaho",
+    "backReservation": "Bumalik sa pahina ng mga pagpapareserba"
+  },
+  "support": {
+    "contactUs": "Makipag-ugnay sa Amin",
+    "name": "Your Name",
+    "subject": "Paksa"
+  },
+  "msgBox": {
+    "success": "Tagumpay",
+    "notSend": "Hindi ka maaaring magpadala ng kahilingan ngayon",
+    "sent": "Ipinadala ang kahilingan sa pagmamaneho",
+    "emailExist": "Ang gumagamit o Email ay mayroon na",
+    "userIdExist": "Ang user id ay wala!",
+    "finishReservation": "Tapos na ang reserba",
+    "driverArrived": "Dumating ang driver mo at hinihintay ka.",
+    "wrongPwd": "Maling Gumagamit o Password!",
+    "paymentConfirm": "Tagumpay !. Matagumpay na nakumpirma ang pagbabayad!",
+    "failedConfirm": "Nabigo! Kumpirmahin ang detalye ng card!",
+    "anotherDriverAccept": "Ang isa pang drayber ay tinanggap na.",
+    "notifySent": "Ipadala ang abiso",
+    "location": "Lokasyon",
+    "requestNotAccept": "Hindi pa tinanggap ang kahilingan upang makipag-chat",
+    "callNotAccept": "Hindi pa tinanggap ang kahilingan na tumawag",
+    "enterLocation": "Mangyaring Ipasok ang Lokasyon",
+    "bookFirst": "Mangyaring mag-book muna!",
+    "notChat": "Hindi ka maaaring makipag-chat sa customer."
+  },
+  "extra": {
+    "destinatino": "Ang iyong patutunguhan",
+    "booking": "Mga Pag-book",
+    "rateFavouriteDriver": "Rate at mga paboritong driver",
+    "privacyPolicyCondition": "Patakaran sa Pagkapribado at Mga Kundisyon",
+    "payInCash": "Magbayad Sa Cash",
+    "ridePayDriver": "Sumakay at bayaran nang direkta ang driver",
+    "paypal": "PayPal",
+    "linkPaypal": "Mag-link sa iyong paypal account",
+    "yourMonthlyPaymentActive": "Ang iyong buwanang pagbabayad upang maging aktibo",
+    "support": "Suporta",
+    "share": "Ibahagi",
+    "favoriteDriver": "Paboritong Driver"
+  }
+}

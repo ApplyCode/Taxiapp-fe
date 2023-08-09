@@ -1,0 +1,157 @@
+{
+  "initial": {
+    "app": "Chauffeur de taxi",
+    "user": "Utilisateur",
+    "guest": "Invité",
+    "driver": "Chauffeur",
+    "pwd": "Mot de passe",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "login": "Connexion",
+    "signUp": "Inscrivez-vous",
+    "reset": "Réinitialiser",
+    "name_user": "Nom/Utilisateur",
+    "update": "Mettre à jour",
+    "submt": "Soumettre",
+    "accept": "Accepter",
+    "name": "Nom",
+    "send": "Envoyer",
+    "description": "Description",
+    "offline": "hors ligne",
+    "online": "En ligne",
+    "title": "Titre",
+    "home": "Domicile",
+    "chat": "Discuter",
+    "decline": "Déclin",
+    "call": "Appel"
+  },
+  "login": {
+    "title": "Connectez-vous",
+    "pwd": "Mot de passe",
+    "kepLog": "Gardez-moi connecté",
+    "needAcc": "Besoin d'un compte ?",
+    "loginBtn": "Connexion"
+  },
+  "signUp": {
+    "title": "Inscrivez-vous",
+    "countryCity": "Pays et Ville",
+    "description": "En cliquant sur le bouton 'S'inscrire', j'accepte que les informations que j'ai fournies soient utilisées et publiées sur l'application taxiwait, et j'accepte également les conditions générales."
+  },
+  "forgotPwd": {
+    "title": "Mot de passe oublié ?",
+    "resetPwd": "Réinitialiser le mot de passe",
+    "userId": "Identifiant utilisateur",
+    "confirmPwd": "Confirmer le mot de passe"
+  },
+  "driver": {
+    "carTyoe": "Quel type de voiture ?",
+    "carColor": "Couleur de la voiture",
+    "license": "Numéro de plaque d'immatriculation",
+    "facePic": "Image du visage",
+    "liceFront": "Avant de licence",
+    "liceBack": "Retour de licence"
+  },
+  "booking": {
+    "taxiEconomy": "Taxiwait Economy",
+    "incmingJob": "Emploi entrant"
+  },
+  "driverPay": {
+    "price": "50 Euro",
+    "nameCard": "Nom sur la carte",
+    "monthPay": "Votre paiement mensuel",
+    "cardInfo": "Informations sur la carte",
+    "pay": "Payer"
+  },
+  "editDriver": {
+    "driverProfile": "Profil du conducteur",
+    "isEmailMsg": "L'utilisateur ou l'e-mail existe déjà",
+    "permisionCamera": {
+      "title": "Autorisation d'écriture de stockage externe",
+      "msg": "L'application a besoin d'une autorisation d'écriture"
+    },
+    "permisionStorage": {
+      "title": "Autorisation d'écriture de stockage externe",
+      "msg": "L'application a besoin d'une autorisation d'écriture"
+    }
+  },
+  "home": {
+    "inCash": "en espèces",
+    "addLocation": "Ajouter un emplacement",
+    "cancelReservation": "Annuler la réservation",
+    "calFare": "Calculer le tarif",
+    "requestDriver": "Demander un Chauffeur",
+    "availableDriver": "Chauffeur disponible",
+    "requestAccepted": "Demande acceptée"
+  },
+  "profile": "Mon profil",
+  "pay": "Choisissez votre paiement",
+  "privacy": [
+    "Tout d'abord, votre vie privée est importante pour nous. Oui, nous savons que tout le monde le dit, mais pour nous c'est vraiment le cas. Vous nous avez fait confiance en utilisant les services de taxiwait.com et nous l'apprécions grandement. Cela signifie que nous allons s'efforcer de protéger et de protéger toutes les données personnelles en agissant dans l'intérêt de nos clients et avec transparence concernant le traitement de vos données personnelles.",
+    "Cette page est utilisée pour vous informer de nos politiques en matière de collecte, d'utilisation et de divulgation d'informations personnelles si quelqu'un décide d'utiliser notre service.",
+    "Et vous êtes conscient de payer un montant non remboursable chaque mois pour attendre la publication de votre voiture.",
+    "Au cas où vous décideriez d'arrêter de travailler avec nous, n'hésitez pas à nous le dire par mail.",
+    "Si vous choisissez d'utiliser nos services, vous acceptez la collecte et l'utilisation d'informations en rapport avec cette politique. Les informations personnelles que nous collectons sont utilisées pour fournir et améliorer le service. nous n'utiliserons ni ne partagerons vos informations avec qui que ce soit. sauf tel que décrit dans la présente politique de confidentialité.",
+    "Les termes utilisés dans la présente politique de confidentialité ont la même signification que dans nos conditions générales, qui sont accessibles au taxiwait Center, sauf indication contraire dans la présente politique de confidentialité.",
+    "Collecte et utilisation des informations ",
+    "Pour une meilleure expérience, lors de l'utilisation de notre Service, nous pouvons vous demander de nous fournir certaines informations personnellement identifiables, y compris le numéro de téléphone. Les informations que nous demandons sont utilisées comme décrit dans cette politique de confidentialité.",
+    "Sécurité",
+    "Nous apprécions votre confiance en nous fournissant vos informations personnelles, nous nous efforçons donc d'utiliser des moyens commercialement acceptables pour les protéger.",
+    "Nous gardons vos informations privées confidentielles. Vous pouvez être sûr que toutes vos données sont transférées et restaurées à l'aide du cryptage et sont conservées derrière des pare-feu sécurisés sur notre réseau cloud privé, vos informations de paiement sont protégées grâce à un compilateur PCI et une passerelle de paiement de renommée mondiale. ",
+    "La prochaine génération de clients de taxi est Taxiwait à portée de main.",
+    "Si vous téléchargez l'application et qu'elle n'est pas encore disponible dans votre ville, veuillez nous contacter directement, faites-nous savoir dans quelle ville vous résidez et vous serez sur la première liste de conducteurs à profiter de cette application dans quelques jours ou semaines.",
+    " Modifications de cette politique de confidentialité ",
+    "Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Ainsi, il vous est conseillé de consulter cette page périodiquement pour tout changement. nous vous informerons de tout changement en publiant la nouvelle politique de confidentialité sur cette page. Ces changements entrent en vigueur immédiatement après leur sont publiés sur cette page.",
+    "Essayez-nous et évaluez-nous s'il vous plaît."
+  ],
+  "rating": {
+    "giveStart": "Veuillez donner une étoile à votre chauffeur",
+    "addDriver": "Ajoutez votre meilleur Chauffeur",
+    "thankDriver": "Merci d'évaluer votre chauffeur"
+  },
+  "reservation": {
+    "pickUp": "Pick Up",
+    "time": "Time: ASAP",
+    "clickNotify": "CLIQUEZ POUR AVERTIR VOTRE CLIENT QUE VOUS ÊTES ARRIVÉ",
+    "finishJob": "Terminer le travail",
+    "backReservation": "Retour à la page des réservations"
+  },
+  "support": {
+    "contactUs": "Contactez-nous",
+    "name": "Votre nom",
+    "subject": "Sujet"
+  },
+  "msgBox": {
+    "success": "Éxito",
+    "notSend": "Vous ne pouvez pas envoyer de demande maintenant",
+    "sent": "Demande de pilote envoyée",
+    "emailExist": "L'utilisateur ou l'e-mail existe déjà",
+    "userIdExist": "L'ID utilisateur n'existe pas !",
+    "finishReservation": "Réservation terminée",
+    "driverArrived": "Votre chauffeur est arrivé et vous attend.",
+    "wrongPwd": "Mauvais utilisateur ou mot de passe !",
+    "paymentConfirm": "Success!. Le paiement est confirmé avec succès!",
+    "failedConfirm": "Échec ! Confirmez les détails de la carte !",
+    "anotherDriverAccept": "Un autre pilote déjà accepté.",
+    "notifySent": "Notifier envoyé",
+    "location": "Emplacement",
+    "requestNotAccept": "Demande pas encore acceptée pour discuter",
+    "callNotAccept": "Demande pas encore acceptée pour appeler",
+    "enterLocation": "Veuillez entrer l'emplacement",
+    "bookFirst": "Veuillez réserver d'abord!",
+    "notChat": "Vous ne pouvez pas discuter avec le client."
+  },
+  "extra": {
+    "destinatino": "Votre destination",
+    "booking": "Réservations",
+    "rateFavouriteDriver": "vote et chauffeur préféré",
+    "privacyPolicyCondition": "Politique de confidentialité et conditions",
+    "payInCash": "Payer en espèces",
+    "ridePayDriver": "Montez et payez directement le chauffeur",
+    "paypal": "PayPal",
+    "linkPaypal": "Lien vers votre compte paypal",
+    "yourMonthlyPaymentActive": "Votre mensualité pour être actif",
+    "support": "Support",
+    "share": "Partager",
+    "favoriteDriver": "chauffeur préféré"
+  }
+}

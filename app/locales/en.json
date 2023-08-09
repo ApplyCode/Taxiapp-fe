@@ -1,0 +1,158 @@
+{
+  "initial": {
+    "app": "Taxiwait Driver",
+    "user": "User",
+    "guest": "Guest",
+    "driver": "Driver",
+    "pwd": "Password",
+    "email": "Email",
+    "phone": "Phone",
+    "login": "Login",
+    "logout": "Logout",
+    "signUp": "Sign Up",
+    "reset": "Reset",
+    "name_user": "Name / User",
+    "update": "Update",
+    "submt": "Submit",
+    "accept": "Accept",
+    "name": "Name",
+    "send": "Send",
+    "description": "Description",
+    "offline": "Offline",
+    "online": "Online",
+    "title": "Title",
+    "home": "Home",
+    "chat": "Chat",
+    "decline": "Decline",
+    "call": "call"
+  },
+  "login": {
+    "title": "Log in",
+    "pwd": "Password",
+    "kepLog": "Keep me logged in",
+    "needAcc": "Need an account?",
+    "loginBtn": "Login"
+  },
+  "signUp": {
+    "title": "Sign Up",
+    "countryCity": "Country and City",
+    "description": "By clicking on 'Sign up',button i accept that the information i have provided in use and published on the taxiwait app, and i also accept the general conditions."
+  },
+  "forgotPwd": {
+    "title": "Forgot password?",
+    "resetPwd": "Reset Password",
+    "userId": "User id",
+    "confirmPwd": "Confirm Password"
+  },
+  "driver": {
+    "carTyoe": "What kind of car?",
+    "carColor": "Car color",
+    "license": "License plate number",
+    "facePic": "Face Picture",
+    "liceFront": "License Front",
+    "liceBack": "License Back"
+  },
+  "booking": {
+    "taxiEconomy": "Taxiwait Economy",
+    "incmingJob": "Incoming Job"
+  },
+  "driverPay": {
+    "price": "50 Euro",
+    "monthPay": "Your Monthly Payment",
+    "cardInfo": "Card Information",
+    "nameCard": "Name on card",
+    "pay": "Pay"
+  },
+  "editDriver": {
+    "driverProfile": "Driver Profile",
+    "isEmailMsg": "User or Email is already exist",
+    "permisionCamera": {
+      "title": "Camera Permission",
+      "msg": "App needs camera permission"
+    },
+    "permisionStorage": {
+      "title": "External Storage Write Permission",
+      "msg": "App needs write permission"
+    }
+  },
+  "home": {
+    "inCash": "in cash",
+    "addLocation": "Add Location",
+    "cancelReservation": "Cancel Reservation",
+    "calFare": "Calculate Fare",
+    "requestDriver": "Request a driver",
+    "availableDriver": "Available Driver",
+    "requestAccepted": "Request accepted"
+  },
+  "profile": "My Profile",
+  "pay": "Choose Your Payment",
+  "privacy": [
+    "First of all, your privacy is important to us. Yes, we know that everyone says it, but for us it really is. You have trusted us using the services of taxiwait.com and we greatly appreciate it. This means that we will strive to protect and protect any personal data by acting in the interest of our customers and with transparency regarding the processing of your personal data.",
+    "This page is used to inform you regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.",
+    "And you are aware about paying a non refundable amount each month to taxiwait to publish your car.",
+    "In case you deside to stop working with us is enaugh to tell us by mail.",
+    "If you choose to use our Services, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. we will not use or share your information with anyone except as described in this Privacy Policy.",
+    "The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at taxiwait Center unless otherwise defined in this Privacy Policy.",
+    "Information Collection and Use",
+    "For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including Phone number. The information that we request used as described in this privacy policy.",
+    "Security",
+    "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.",
+    "We safley keep your private information confidential. You can trust that all your data is transferred and restored using encryption and is kept behind secured firewalls on our Private Cloud Network, your payment information is kept safe with a PCI Compilant and world renowned payment gateway.",
+    "The next generation of getting taxi clients is Taxiwait at your fingertips.",
+    "If you download the app and it's not available yet in your city please contact us directly, let us know wish city you reside and you will be on the first list of drivers to enjoy this app within couple of days or weeks.",
+    "Changes to This Privacy Policy",
+    "We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. we will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.",
+    "Give us a try and please rate us."
+  ],
+  "rating": {
+    "giveStart": "Please give your driver a star",
+    "addDriver": "Add your Best Driver",
+    "thankDriver": "Thank you to rate your driver"
+  },
+  "reservation": {
+    "pickUp": "Pick Up",
+    "time": "Time: ASAP",
+    "clickNotify": "CLICK TO NOTIFY YOUR  CLIENT THAT YOU ARRIVED",
+    "finishJob": "Finish Job",
+    "backReservation": "Back to reservations page"
+  },
+  "support": {
+    "contactUs": "Contact Us",
+    "name": "Your Name",
+    "subject": "Subject"
+  },
+  "msgBox": {
+    "success": "Success",
+    "notSend": "You can't send request now",
+    "sent": "Driver request sent",
+    "emailExist": "User or Email is already exist", 
+    "userIdExist": "User id is not existed!",
+    "finishReservation": "Reservation finished",
+    "driverArrived": "Your driver has arrived and waiting you.",
+    "wrongPwd": "Wrong User or Password!",
+    "paymentConfirm": "Success!. Payment is confirmed successfully!",
+    "failedConfirm": "Failed! Confirm the card detail!",
+    "anotherDriverAccept": "Another driver already accepted.",
+    "notifySent": "Notify sent",
+    "location": "Location",
+    "requestNotAccept": "Request not accepted yet to chat",
+    "callNotAccept": "Request not accepted yet to call",
+    "enterLocation": "Please Enter Location",
+    "bookFirst": "Please book first!",
+    "notChat": "You can not chat with customer."
+  },
+  "extra": {
+    "destinatino": "Your Destination",
+    "booking": "Bookings",
+    "rateFavouriteDriver": "Rate and favourites driver",
+    "privacyPolicyCondition": "Privacy Policy & Conditions",
+    "payInCash": "Pay In Cash",
+    "ridePayDriver": "Ride and pay the driver directly",
+    "paypal": "PayPal",
+    "linkPaypal": "Link to your paypal account",
+    "yourMonthlyPaymentActive": "Your monthly payment to be active",
+    "support": "Support",
+    "share": "Share",
+    "favoriteDriver": "Favorite Driver"
+  }
+}
